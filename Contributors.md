@@ -434,6 +434,7 @@ Edison Shek
 - [Gabryelle Soares](https://github.com/gabsoares11)
 - [Pedro Augusto](https://github.com/znexpedro)
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
+- [Derolol Liang](https://github.com/Derolol)
 - [BlackSpheres](https://github.com/BlackSpheres)
 - [Charvi](https://github.com/cm7799)
 - [Carlos Carvalho](http://github.com/chcdc)
